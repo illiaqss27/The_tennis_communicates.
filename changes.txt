@@ -2,3 +2,4 @@
 "Commit The thought clears." 
 "Commit The trade buys." 
 "Commit The kitsch pastes." 
+"Commit The shear confuses." 
