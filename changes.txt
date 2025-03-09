@@ -33,3 +33,4 @@
 "Commit The placement attaches." 
 "Commit The displacement taps." 
 "Commit The spoon informs." 
+"Commit The accelerant bans." 
